@@ -11,6 +11,6 @@ package com.mycompany.groupninedsa;
 public class GroupNineDSA {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Good morning!");
     }
 }
